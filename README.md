@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatima
-- 🌱 I’m currently learning Python and C.
+- 🌱 I’m currently learning Python, C++, and C.
 - 📫 How to reach me fatima.boumsahi.fpn23@ump.ac.ma
 
 
