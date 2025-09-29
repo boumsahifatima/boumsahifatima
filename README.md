@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatima
-- 🌱 I’m currently learning Python, C++, and C.
+- 🌱 I’m currently learning Python.
 
 
 
