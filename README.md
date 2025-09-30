@@ -3,6 +3,9 @@
 
 
 
+![Profile views](https://komarev.com/ghpvc/?username=boumsahifatima&color=blue&style=flat-square)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/fatima.__.boumsahi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/boumsahi-fatima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatima.boumsahi.fpn23@ump.ac.ma) 
 
