@@ -1,3 +1,6 @@
+<html>
+<body>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&size=28&width=600&lines=Hey+there!+Welcome+✨;I+am+Fatima+Boumsahi+👩‍💻;Computer+Science+Student+💻🌸" alt="Typing SVG"/>
@@ -6,6 +9,8 @@
 <p align="center">
 ------------------------------------------------------------
 </p>
+</body>
+</html>
 
 
 
