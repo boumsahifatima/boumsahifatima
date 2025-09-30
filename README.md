@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Fatima
-- 🌱 I’m currently learning Python.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+there!+Welcome;I+am+Fatima+Boumsahi;Computer+Science+Student)](https://git.io/typing-svg)
+
 
 
 
