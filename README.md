@@ -28,8 +28,7 @@
   <img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40"/>
-</p>
+</p>  
 
 ## 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=boumsahifatima&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
