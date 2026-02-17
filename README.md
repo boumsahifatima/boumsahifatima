@@ -32,8 +32,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,flask,c,cpp,py,bash,ubuntu,vscode,mysql,sqlite&perline=7&theme=light" />
 </div>
 
-<h1>
-<h1>
+---
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=boumsahifatima&count_private=true&theme=radical&border_radius=20" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=boumsahifatima&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=20" alt="readme stats"/>
