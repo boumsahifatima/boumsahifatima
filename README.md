@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fatima%20Boumsahi&fontSize=60&animation=fadeIn&fontColor=fff" alt="Header" />
+</div>
+
+
 
 <p align="center" size=40>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&width=600&height=50&lines=Hey+there!+Welcome+✨;I+am+Fatima+Boumsahi+👩‍💻;Computer+Science+Student+💻🌸" alt="Typing SVG" />
