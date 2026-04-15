@@ -35,7 +35,7 @@
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,flask,c,cpp,py,bash,ubuntu,vscode,mysql,sqlite&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,flask,xml,c,cpp,py,kotlin,bash,ubuntu,vscode,mysql,sqlite&perline=7&theme=light" />
 </div>
 
 ---
