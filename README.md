@@ -4,7 +4,7 @@
 
 
 
-
+   
 <p align="center" size=40>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&vCenter=true&width=600&height=50&lines=Hey+there!+Welcome+✨;I+am+Fatima+Boumsahi+👩‍💻;Computer+Science+Student+💻🌸" alt="Typing SVG" />
 </p>
